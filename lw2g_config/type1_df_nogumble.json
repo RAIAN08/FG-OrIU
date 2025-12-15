@@ -1,0 +1,26 @@
+{
+    "forward_disturbing_on_DF": true,
+    "forward_disturbing_on_DF_gumbel_layer": false,
+    "forward_disturbing_on_DF_gumbel_token": false,
+
+    "forward_denoising_on_DR": true,
+    "forward_denoising_on_DR_gumbel_layer": false,
+    "forward_denoising_on_DR_gumbel_token": false,
+  
+
+    "ce_loss_on_Df": false,
+    "ce_loss_on_Dr": true,
+
+    "backward_disturbing_on_DF":false,
+    "backward_disturbing_on_DF_coef":1,
+
+
+    "backward_denoising_on_DR":true,
+    "backward_denoising_on_DR_coef":1,
+
+    "feature_subspace_resource": "ffn",
+    "feature_subspace_type": "cls",
+    "layer_wised": true
+    
+}
+

@@ -9,19 +9,23 @@ Incremental unlearning (IU) is critical for pre-trained models to comply with se
 
 ## Experimental results
 
-### The image reconstruction of forgetting classes’ samples through deep image prior ([DIP](https://github.com/DmitryUlyanov/deep-image-prior)) .
+### Qualitative results
+
+#### The image reconstruction of forgetting classes’ samples through deep image prior ([DIP](https://github.com/DmitryUlyanov/deep-image-prior)) .
 
 ![1735645979681](image/README/compare_more_forget.drawio_01.png)
 
-### The image reconstruction of remaining classes’ samples through deep image prior ([DIP](https://github.com/DmitryUlyanov/deep-image-prior)) .
+#### The image reconstruction of remaining classes’ samples through deep image prior ([DIP](https://github.com/DmitryUlyanov/deep-image-prior)) .
 
 ![1735645979681](image/README/compare_more_remain.drawio_01.png)
 
-### Machine Unlearning
+### Quantitative results
+
+#### Machine Unlearning
 
 ![1735645979681](image/README/1.png)
 
-### Incremental Unlearning
+#### Incremental Unlearning
 
 ![1735645979681](image/README/2.png)
 

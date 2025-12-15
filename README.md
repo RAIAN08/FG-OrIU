@@ -5,7 +5,7 @@ Incremental unlearning (IU) is critical for pre-trained models to comply with se
 
 ## Method
 
-![1735645979681](image/README/3.png)
+![1735645979681](image/README/final.20250308_01.png)
 
 ## Experimental results
 
